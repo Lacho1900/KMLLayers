@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Doctores_CDMX</name>
+	<gx:CascadingStyle kml:id="__managed_style_1A3CC739351934A5C74C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_213CD44FCA1934A5C74C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02D76E2A711934A5C74C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A3CC739351934A5C74C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_213CD44FCA1934A5C74C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A816E6C1A1934A5C74C">
+		<name>Coverrtura</name>
+		<LookAt>
+			<longitude>-99.13787261910788</longitude>
+			<latitude>19.42493856403512</latitude>
+			<altitude>2243.417310437003</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5005.0612910965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02D76E2A711934A5C74C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-99.14263034861065,19.43040776402841,2230.996696589226 -99.14701377629831,19.42935825340317,2231.004247525445 -99.14929991925241,19.42605113613487,2233.466626204698 -99.15047513845863,19.42369139977639,2234.929268960599 -99.14906944568544,19.42061129785193,2231.240991635485 -99.144798911005,19.41841701586893,2233.473941548202 -99.14014171953897,19.41658414849826,2233.471580190217 -99.13524959139133,19.4178895560867,2231.004658864175 -99.13073144615684,19.42286114753334,2230.999291147756 -99.13083197347332,19.4273158728546,2230.763441862243 -99.1310973977692,19.42877036334631,2228.526404347028 -99.13233370395567,19.4297479772741,2230.985189660908 -99.13461877762404,19.43093246840765,2230.999103701184 -99.13886731553644,19.43172740156837,2230.994505450225 -99.1408230012413,19.43147303553805,2230.999497402077 -99.14263034861065,19.43040776402841,2230.996696589226 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
